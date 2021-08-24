@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0027)https://www.spcsangola.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" title="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA"><script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script><head title="Sangola College, Sangola"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="description" content="SHIVAJI POLYTECHNIC COLLEGE,SANGOLA is the best Diploma Engineering college in Sangola.">
+    
+
+    <link rel="shortcut icon" href="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/logo2.png" type="image" title="Sangola College, Sangola">
+
+    <title title="Welcome to Sangola College, Sangola">Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA</title>
+    <link href="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/style.css" rel="stylesheet" type="text/css" title="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA">
+    <link href="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/style2.css" rel="stylesheet" type="text/css" title="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA">
+    <link href="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/ddsmoothmenu.css" rel="stylesheet" type="text/css" title="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA">
+    <script type="text/javascript" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/jquery.min.js.download"></script>
+    <script type="text/javascript" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/ddsmoothmenu1.js.download"></script>
+    <script language="javascript" type="text/javascript" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/jquery.js.download"></script>
+    <script language="javascript" type="text/javascript" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/jquery.easing.js.download"></script>
+    <script language="javascript" type="text/javascript" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/script.js.download"></script>
+    
+<script type="text/javascript">
+
+    $(document).ready( function(){
+        // buttons for next and previous item
+        var buttons = { previous:$('#jslidernews1 .button-previous') ,
+            next:$('#jslidernews1 .button-next') };
+        $('#jslidernews1').lofJSidernews( { interval : 4000,
+            direction       : 'opacitys',
+            easing          : 'easeInOutExpo',
+            duration        : 1500,
+            auto            : true,
+            maxItemDisplay  : 5,
+            navPosition     : 'horizontal', // horizontal
+            navigatorHeight : 32,
+            navigatorWidth  : 80,
+            mainWidth       : 200,
+            buttons         : buttons } );
+    });
+
+</script>    <script type="text/javascript">
+
+        $(document).ready( function(){
+            // buttons for next and previous item
+            var buttons = { previous:$('#jslidernews2 .button-previous') ,
+                next:$('#jslidernews2 .button-next') };
+            $('#jslidernews2').lofJSidernews( { interval : 4000,
+                direction       : 'opacitys',
+                easing          : 'easeInOutExpo',
+                duration        : 2500,
+                auto            : true,
+                maxItemDisplay  : 5,
+                navPosition     : 'horizontal', // horizontal
+                navigatorHeight : 32,
+                navigatorWidth  : 80,
+                mainWidth       : 700,
+                buttons         : buttons } );
+
+
+            if ($.browser.msie) {
+                 alert("Not Fully Compatible with Internet Explorer !! (Recommended: Google Chrome, Mozilla Firefox, Opera.)")
+            }
+
+        });
+
+    </script>
+</head>
+<body title="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA"><div class="ddshadow toplevelshadow" style="left: 1088px; top: 199px;"></div><div class="ddshadow toplevelshadow" style="left: 1005px; top: 199px;"></div><div class="ddshadow toplevelshadow" style="left: 871px; top: 199px;"></div><div class="ddshadow toplevelshadow" style="left: 688px; top: 199px;"></div><div class="ddshadow toplevelshadow" style="left: 553px; top: 199px; width: 220px; height: 0px; display: block;"></div><div class="ddshadow toplevelshadow" style="left: 429px; top: 199px;"></div><div class="ddshadow toplevelshadow" style="left: 329px; top: 199px;"></div>
+    <div id="main_div_body" title="Shivaji Polytechnic, Sangola">
+        
+<div class="main_header_div" title="Shivaji Polytechnic College">
+    <div class="logo_div" title="Logo of Shivaji Polytechnic College">
+        <a href="https://www.spcsangola.com/index.php"><img style="margin-left: 15px;margin-top: 10px;" width="170" height="140" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/logo2.png" alt="Logo of Shivaji Polytechnic College, Sangola " title="Logo of Shivaji Polytechnic College, Sangola "></a>
+    </div>
+    <div class="name_div"><center>
+    	<span style="color: #466D90;font-size:20px;text-align: center;font-weight: bold;">RAMKRISHNA TECHNICAL EDUCATION SOCIETY'S</span><br>
+    	<span style="color: #1F4E79;font-size:30px;text-align: center;font-weight: bold;text-shadow: 2px 2px #A0B4C6;">SHIVAJI POLYTECHNIC COLLEGE, SANGOLA</span><br>
+    	<span style="color: #424242;font-size:20px;text-align: center;font-weight: bold;">Approved by AICTE, New Delhi, Recognized by DTE, Mumbai (Govt. of Maharashtra) Affiliated to MSBTE Mumbai.</span><br>
+    	<span style="color: #FD1615;font-size:20px;text-align: center;font-weight: bold;">An ISO 9001:2015 Certified Institute.</span>
+    	<span style="color: #FD1615;font-size:20px;text-align: center;font-weight: bold;">MSBTE Code: 1208                     DTE Code: D-6471.</span></center>
+        <!-- <img style="margin-left: 100px;float: left" width="575" height="56" src="img/stusm.png" alt="STUSM" title="Sangola Taluka Uchha Shikshan Mandal's">
+        <a href="index.php"><img style="margin-top: -25px;float: left" src="img/SangolaCollegeSangola.png" height="90" width="803" alt="Sangola College, Sangola"></a>
+        <img width="222" height="54" title="Taluka: Sangola, District: Solapur" alt="Solapur" src="img/taldist.png" style="margin-top: -25px; float: left">
+        <img width="222" height="54" title="Reaccreditatin of Sangola College, Sangola" alt="NAAC" src="img/naac2.png" style="margin-top: -25px; float: left">
+        <img width="346" height="54" title="Solapur University" alt="Solapur" src="img/solapuruniversitysolapur.png" style="margin-top: -25px;float: left"> -->
+
+    </div>
+</div>       
+<!--  -->
+<div id="menu">
+    <div class="ddsmoothmenu" id="smoothmenu1">
+        <ul>
+
+
+            <li><a href="https://www.spcsangola.com/index.php">Home</a></li>
+            <li style="z-index: 100;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">About Us<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+                <ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 216px;">
+                    <li><a href="https://www.spcsangola.com/abouttrust.php">About SPC</a></li>
+                    <li><a href="https://www.spcsangola.com/aboutinstitute.php">About Institute</a></li>
+		    <li><a href="https://www.spcsangola.com/presidentmessage.php">President Message</a></li>
+                    <li><a href="https://www.spcsangola.com/secretarymessage.php">Secretary Message</a></li>
+                   <!--  <li><a href="presidentMassge.php">President Message</a></li> -->
+		    <li><a href="https://www.spcsangola.com/managermessage.php">Manager Message</a></li>
+		    <li><a href="https://www.spcsangola.com/principalmessage.php">Principal Message</a></li>
+                    <li><a href="https://www.spcsangola.com/vision.php">Vision &amp; Mission</a></li>
+                    <li><a href="https://www.spcsangola.com/committies.php">Committees</a></li>
+                    <li><a href="https://www.spcsangola.com/contactus.php">Contact Us</a></li>
+                    <li><a href="https://www.spcsangola.com/pdf/SPC%20MD.pdf">Mandatory Disclosure</a></li>
+                </ul>
+            </li>
+
+            <li style="z-index: 99;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Departments<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+                <ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 216px;">
+                    <li><a href="https://www.spcsangola.com/generalscience.php">General Science &amp; Humanities</a></li>
+                    <li><a href="https://www.spcsangola.com/computerengineering.php">Computer Engineering</a></li>
+                     <li><a href="https://www.spcsangola.com/civilengineering.php">Civil Engineering</a></li>
+					 <li><a href="https://www.spcsangola.com/electronicstele.php">Electronics &amp; Tele-communication Engg.</a></li>
+					  <li><a href="https://www.spcsangola.com/mechanicalengineering.php">Mechanical Engineering</a></li>
+                     <li><a href="https://www.spcsangola.com/office.php">Office</a></li>
+                        
+
+                    
+                </ul>
+
+            </li>
+            <li style="z-index: 98;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Administration<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+                <ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 220px;">
+                     <li><a href="https://www.spcsangola.com/courseoffered.php">Course Offered</a></li>
+		    <li><a href="https://www.spcsangola.com/admissionprocess.php">Admission Process</a></li>
+                    <li><a href="https://www.spcsangola.com/feestructure.php">Fee Structure</a></li>
+                    <li><a href="https://www.spcsangola.com/admissioncell.php">Admission Cell</a></li>
+                    <!-- <li><a href="computerdepartment.php">Computer</a></li> -->
+                </ul>
+            </li>
+           <!-- <li><a href="library.php">Student</a>  </li>-->
+
+
+
+
+			<li style="z-index: 97;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Academic<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+                <ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 216px;">
+					<li><a href="https://www.spcsangola.com/academiccalendar.php">Academic Calendar</a></li>
+                      <li><a href="https://www.spcsangola.com/academicrules.php">Academic Rules</a></li>
+                    <li><a href="https://www.spcsangola.com/academicsyllabus.php">Academic Syllabus</a></li>
+                    <!-- <li><a href="studentlogin.php">Student Feedback</a> </li> -->
+                </ul>
+            </li>
+            <li><a href="https://www.spcsangola.com/library.php">Library</a></li>
+<li style="z-index: 96;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Placement Cell<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+                <ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 216px;">
+                    <li><a href="https://www.spcsangola.com/aboutplacement.php">About Training &amp; Placement</a></li>
+                      <li><a href="https://www.spcsangola.com/ourrecruiters.php">Our Recruiters</a></li>
+                    <li><a href="https://www.spcsangola.com/contactplacement.php">Contact Placement Cell</a></li>
+                    <li><a href="https://www.spcsangola.com/studentsrecruited.php">Student Recruiters</a> </li>
+                    <!-- <li><a href="studentlogin.php">Student Training</a> </li>
+                    <li><a href="studentlogin.php">Faculty Training (FDP)</a> </li>
+                    <li><a href="studentlogin.php">Company wise Recruiters</a> </li> -->
+                </ul>
+            </li>
+            <!-- <li><a href="placementcell.php">Placement Cell</a></li> -->
+            <!-- <li style="z-index: 98;"><a href="" style="padding-right: 23px;">Facility</a>
+                <ul style="display: none; top: 44px; visibility: visible; left: 0px; width: 216px;">
+                    <li><a href="scholership.php">Campus</a></li>
+                      <li><a href="exam.php">Administrative</a></li>
+                       <li><a href="exam.php">Hostel</a></li>
+                        <li><a href="exam.php">Canteen</a></li>
+                         <li><a href="exam.php">Workshop</a></li>
+                                    </ul>
+            </li> -->
+
+
+
+            
+				<!-- <ul style="display: none; top: 44px; visibility: visible; left: 0px; width: 216px;">
+					<li><a href="naac.php">About EDP </a></li>
+                    <li><a href="Maharashtra AQAR 2016-2017.pdf">Cell Contact</a></li>
+					
+                </ul> -->
+			
+            <!--<li><a href="ncc_nss.php">NSS/NCC</a></li>-->
+            
+            <li style="z-index: 95;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Alumni  <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+<ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 116px;">
+					<li><a href="https://www.spcsangola.com/alumnicell.php">Alumni Cell</a></li>
+<li><a href="https://www.spcsangola.com/alumnimeet.php"> Alumni Meet</a></li>
+<li><a href="https://www.spcsangola.com/alumniregister.php"> Alumni Registration</a></li>
+
+</ul>
+</li>
+            
+			<li style="z-index: 94;"><a href="https://www.spcsangola.com/" style="padding-right: 23px;">Gallery<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/arrow-down.png" class="downarrowclass" style="border:0;"></a>
+				<ul style="display: none; top: 30px; visibility: visible; left: 0px; width: 216px;">
+					<li><a href="https://www.spcsangola.com/gallerygeneral.php">General Science</a></li>
+                    <li><a href="https://www.spcsangola.com/gallerycomputer.php">Computer Engineering</a></li>
+                    <li><a href="https://www.spcsangola.com/gallerycivil.php">Civil Engineering</a></li>
+                    <li><a href="https://www.spcsangola.com/galleryentc.php">ENTC Engineering</a></li>
+                    <li><a href="https://www.spcsangola.com/gallerymechanical.php">Mechanical Engineering</a></li>
+                   
+                    
+                </ul>
+			</li>
+            
+         
+<!-- <li><a href="SANGOLA COLLEGE  SANGOLA DIST-SOLAPUR20200106.pdf">Facility</a></li> -->
+<!-- <li><a href="exam_result.php">EDP Cell</a></li> -->
+            <!--<li><a  id="login_link">Login</a>
+            <div class="login_div" id="login_div_id">
+                <center><h2><u>Login</u></h2></center>
+        <form action="add_news.php" method="post">
+                <table class="login_table">
+                    <tr>
+                        <td class="login_row">User Id :</td>
+                        <td><input class="lgin" type="text" name="username" /></td>
+                    </tr>
+                    <tr>
+                        <td class="login_row">Password:</td>
+                        <td><input type="password" class="lgin" name="password" /></td>
+                    </tr>
+                </table>
+                <input type="submit" name="btnsubmit" class="login_button" value="Login" />
+        </form>
+            </div>
+            </li>-->
+            <!--
+
+            <li><a href="">Contact Us</a></li>-->
+        </ul>
+    </div>
+</div>   
+       <div class="main_body_content_div">
+            <div class="main_body_div" style="background-color: #E1ECFB;">
+<marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()">
+    
+     
+     
+     <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"><a href="http://view.dtemaharashtra.gov.in/diploma21/downloaddoc.php?fname=RGF0ZSBFeHRlbmRlZF9GaXJzdCBZZWFyIFBvc3QgU1NDIERpcGxvbWEgTm90aWZpY2F0aW9uIE1hcmF0aGkgMjAuMDguMjAyMTA4MjAyMDIxMjI0NjI3LnBkZg==&amp;flag=Tk9U" style="color:red;text-decoration:none;">प्रथम वर्ष डिप्लोमा इंजिनिअरिंग प्रवेश प्रक्रियेस पुन्हा  २७/०८/ २०२१ पर्यंत मुदतवाढ</a>
+
+  <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"><a href="http://view.dtemaharashtra.gov.in/dsd21/downloaddoc.php?fname=MjM4MjEgbWFyYXRoaTA4MjMyMDIxMjI1NzM3LnBkZg==&amp;flag=Tk9U" style="color:red;text-decoration:none;"> द्वितीय वर्ष(Direct Second Year) डिप्लोमा इंजीनियरिंग प्रवेश प्रक्रियेस ३० ऑगस्ट २०२१ पर्यंत मुदतवाढ
+  
+    
+     <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"></a><a href="https://polyusers21.dtemaharashtra.gov.in/diploma21/index.php?show=home" style="color:red;text-decoration:none;">प्रथम वर्ष प्रवेश नोंदणी. </a>
+
+    
+    <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"><a href="https://forms.gle/cYij6pRGPBbJoCZw5" style="color:red;text-decoration:none;">पदविका २०२१-२२ प्रवेशाकरिता इच्छित उमेदवार नोंदणी. </a>
+	<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"><a href="https://forms.gle/raPEdPxF25eiDAZ16" style="color:red;text-decoration:none;">  बारावी विद्यार्थ्यांचे शैक्षणिक सर्वेक्षण 2020-21  </a>
+	<img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/new-icon-animated.gif" height="30" width="100"><a href="https://forms.gle/TwCJXc5EFbmJXtaZ9" style="color:red;text-decoration:none;">  दहावी विद्यार्थ्यांचे शैक्षणिक सर्वेक्षण 2020-21   </a>
+	<!--<img src="img/new-icon-animated.gif" height="30" width="100"><a href=""style="color:red;text-decoration:none;">Filling of exam form for summer 2020-21 -24/05/2021. </a>-->
+<!-- <marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><img src="img/new-icon-animated.gif" height="30" width="100"><a href="studentprofile.php">All Third Year Student Profile Entry.</a> -->
+<!-- <a href="humanrights.php"  style="margin-left:50px;">Registration Form One Day Basic Training Programme on Human Rights 18/01/2020. </a> 
+<a href="Registration form international Conference.docx"  style="margin-left:50px;">International Conference on Recent Advances in Physical and Chemical Sciences  22/01/2020. </a>-->
+</marquee>
+
+<!--<a href="purchase.php" style="margin-left:50px;">Purchase Notice last date 15/11/2019 Tender Fee Rs500. Per quotation by D.D. Principal SHIVAJI POLYTECHNIC COLLEGE, SANGOLA. </a>
+<a href="img/Placement Drive.jpeg">Placement Drive Date 03/08/2019 at 10.00 am.</a>&nbsp &nbsp
+<marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><img src="img/new-icon-animated.gif" height="30" width="100">
+<a href="WALK IN INTERVIEW CHB 2019-20.pdf">1)	Walk in Interview  Year- 2019-20 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a>
+<a href="general merit list Bsc(ECS).pdf">
+
+2) B.Sc(ECS) Part-I General Merit List. &nbsp &nbsp;</a> <a href="IInd round.pdf">3) B.Sc(ECS) Part-I Second Round Merit List  &nbsp &nbsp; </a>
+
+
+
+
+</marquee>
+           <!--<marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><a href="register.php">Online Registration for Quinnox drive last date(28/04/2017)</marquee>
+       <marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><a href="priliminary.php">Preliminary examination 2017  time table for B.Sc.(ECS)/BCA/M.Sc.(Computer Science) MCA </marquee>-->
+ <!-- <marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><img src="img/new-icon-animated.gif" height="30" width="100"><a href="addmission18_19.php">Admission notification for B.A-I, B.Com-I, B.Sc-I, B.Sc(ECS)-I & B.C.A-I. </marquee>
+    <marquee scrolldelay="5" scrollamount="5" onmouseover="stop()" onmouseout="start()"><img src="img/new-icon-animated.gif" height="30" width="100"><a href="ICIC Bank Campus Drive on 12.pdf">ICIC Bank Campus Drive on 12/03/2019 at 10 am </marquee>  -->          
+ <img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/welcomebackground.png" alt="SHIVAJI POLYTECHNIC COLLEGE, SANGOLA" height="182" width="700" style="float: left;margin-left: 60px; margin-top: -20px">
+                <div id="jslidernews2" class="lof-slidecontent" style="float: left; margin-left: 60px;width:700px; height:405px; float: left;margin-top: -50px">
+                    <!-- MAIN CONTENT -->
+                    <div class="main-slider-content" style="width:700px; height:405px;">
+                        <div class="sliders-wrapper" style="width: 700px;">
+                            <div class="sliders-wrapper" style="width: 700px;"><ul class="sliders-wrap-inner" style="left: -6300px; width: 7000px;">
+  <!-- <li style="width: 368px;"><img height="405" width="700" src="img/humanrights.jpeg"> 
+  <li style="width: 368px;"><img height="405" width="700" src="img/humanrights1.jpeg">
+<li style="width: 368px;"><img height="405" width="700" src="img/conpage 1.jpg"> -->
+  <!-- <li style="width: 368px;"><img height="405" width="700" src="img/Gaiety2020.jpg">  -->
+<!--<li style="width: 368px;"><img height="405" width="700" src="img/Invitation1.jpg">
+<li style="width: 368px;"><img height="405" width="700" src="img/Nimantran Patraka Front 1.jpg">
+<li style="width: 368px;"><img height="405" width="700" src="img/Nimantran Patraka Back 1.jpg">-->
+  <!-- <li style="width: 368px;"><img height="405" width="700" src="img/felicitionslider1.jpg"> -->
+                    
+                                 
+  
+                                 <li style="width: 700px;"><img height="405" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/282021c.jpeg"></li>
+                                 
+                                 <li style="width: 700px;"><img height="500" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/682021a.jpeg"></li>
+                                 
+                                 <li style="width: 700px;"><img height="500" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/682021b.jpeg"></li>
+                                 
+                                 <li style="width: 700px;"><img height="500" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/282021d.jpeg"></li>
+                        
+                                 <li style="width: 700px;"><img height="450" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/282021b.jpeg"></li>
+  
+                                 <li style="width: 700px;"><img height="405" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/282021a.jpeg"></li>
+                                 
+                                 <li style="width: 700px;"><img height="650" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/gatenewphoto (1).jpeg"></li>
+                                
+                                
+								<li style="width: 700px;"><img height="405" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/SPC 10.jpg"> </li>
+							<!--	<li style="width: 368px;"><img height="405" width="700" src="img/exstudent.jpg"> </li>
+                                <li style="width: 368px;"><img height="405" width="700" src="img/entrance.jpg"> </li>
+                                <li style="width: 368px;"><img height="405" width="700" src="img/bwing.jpg"> </li>
+                                <li style="width: 368px;"><img height="405" width="700" src="img/awing.jpg"> </li>
+                                <li style="width: 368px;"><img height="405" width="700" src="img/backcollege.jpg"> </li>-->
+				<!-- <li style="width: 368px;"><img height="405" width="700" src="img/Front.jpg"> </li> -->
+                                <li style="width: 700px;"><img height="405" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/SPC 12.jpg"> </li>
+                                <li style="width: 700px;"><img height="405" width="700" src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/SPC 16.jpg"> </li>
+                                <!-- <li style="width: 368px;"><img height="405" width="700" src="img/Wing-A.jpg">
+								
+										<li style="width: 368px;"><img height="405" width="700" src="img/top-view-ground.jpg">						
+				<li style="width: 368px;"><img height="405" width="700" src="img/glance.jpg"> </li> -->
+                            </ul></div>
+                        </div>
+                    </div>
+                    <!-- END MAIN CONTENT -->
+                    <!-- NAVIGATOR -->
+                    <!----------------- END OF NAVIGATOR --------------------->
+                    <!-- BUTTON PLAY-STOP -->
+                    <div class="button-control action-stop"><span></span></div>
+                    <!-- END OF BUTTON PLAY-STOP -->
+                </div>
+
+
+            </div>
+            
+            
+<div class="main_body_right_div">
+    <div class="top_right_div">
+        <h4 style="background-color: #aedefa;text-align: center;margin-top: 0px; font-weight: lighter; margin-top: 10px;border-top-left-radius: 8px;border-top-right-radius:8px; ">College Campus</h4>
+        <div id="jslidernews1" class="lof-slidecontent" style="width:198px; height:206px; float: right;margin-top: -15px;">
+            <!-- MAIN CONTENT -->
+            <div class="main-slider-content" style="width:368px; height:206px;">
+                <div class="sliders-wrapper" style=" width: 368px;">
+                    <div class="sliders-wrapper" style="width: 200px;"><ul class="sliders-wrap-inner" style="left: -400px; width: 1000px;">
+                        <li style="width: 200px;"><img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/spc22.jpg" style="height: 100%; width: 100%"></li>
+                        <li style="width: 200px;"><img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/bhaufinal1.jpg" style="height: 100%; width: 100%"> </li>
+                        <li style="width: 200px;"><img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/spc1111.jpg" style="height: 100%; width: 100%"> </li>
+                        <li style="width: 200px;"><img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/spcstaff.jpg" style="height: 100%; width: 100%"> </li>
+                        <li style="width: 200px;"><img src="./Welcome to SHIVAJI POLYTECHNIC COLLEGE, SANGOLA_files/spcalu.jpg" style="height: 135px; width: 100%"> </li>
+                    </ul></div>
+            </div>
+            <!-- END MAIN CONTENT -->
+            <!-- NAVIGATOR -->
+            <!----------------- END OF NAVIGATOR --------------------->
+            <!-- BUTTON PLAY-STOP -->
+            <div class="button-control action-stop"><span></span></div>
+            <!-- END OF BUTTON PLAY-STOP -->
+        </div>
+    </div>
+    </div>
+     <!--<div class="hitcounter">
+         <h4 style="background-color: #aedefa; text-align: center;font-weight: lighter;">Visitors</h4>
+            <center>
+                could not open the file            </center>
+     </div>-->
+    <div class="bottom_right_div">
+        <div class="leatest_news_div">
+            <h4 style="background-color: #aedefa; text-align: center;margin-top: 0px; font-weight: lighter;">Latest News</h4>
+            <div class="marquee_div">
+                <marquee direction="up" height="250" width="210" scrolldelay="1" scrollamount="1" onmouseover="stop()" onmouseout="start()">
+                    <ul style="line-height: 30px">
+<!--                       
+							<a href="img/SU-CET.jpg" title="">Admission Open For <br> B.Sc.(ECS)/B.C.A/B.Sc (Comp. Sci.)...</a><br><br>
+							<a href="img/Regi.form.docx" title="">Gaiety Reg. Form ..</a><br><br>
+							<a href="workshop.php" title="">Gaiety Information ..</a><br><br>
+							<a href="img/voter competion artwork.pdf" title="">Voter Competion Artwork...</a><br><br>
+							<a href="img/ INTERVIEW CHB.doc" title="">Leave Vacancy Chemistry...</a><br><br>
+							<a href="img/IGNO Course.pdf" title="">Details of IGNOU Course...</a><br><br>
+							<a href="img/Advertisement Computer science.pdf" title="">WALK IN INTERVIEW Advertisement </a><br>
+							<a href="img/Grantable CHB Advertisement 2017-18.pdf" title="">Grantable CHB Advertisement 2017-18 </a><br>
+							<a href="img/Banner 2017-18.jpg" Title="Banner">B.Sc.(ECS)/BCA/B.Sc.(Computer Science)/M.Sc.(Computer Science) MCA Admission</a><br>
+							<a href="img/CHB Adv..pdf" Title="News">CHB Advertisement.<br></a>
+							<a href="img/Comp. Adv..pdf" Title="News">Computer Department Advertisement<br></a>-->
+							<a href="https://www.spcsangola.com/news.php" title="News">Shivaji Polytechnic College News and Photo<br></a>
+							<a href="http://www.dtemaharashtra.gov.in/" title="News">अभियांत्रिकी पदवीका प्रवेश प्रक्रिया  माहिती                   </a>
+
+                        <!--
+                                      <a href="detail_news.php?news_id=">
+                                          <li></li></a>
+                                                        <a href="download_files.php?news_id=">
+                                    <li></li></a>
+                                                <a href="all_news.php"> <li>See more...</li></a>
+                    </ul>-->
+                </ul></marquee>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+       <div class="footer_div">
+    <div id="#menu_footer">
+        <div class="mainnavigation">
+            <ul class="footer_div">
+                <!--<li><a href="results.php">Result</a></li>-->
+                <li><a href="https://www.spcsangola.com/events.php">Events</a></li>
+               <!--  <li><a href="resarch.php">Research</a></li> -->
+                <!---<li><a href="scholership.php">Library</a></li>-->
+				<li><a href="https://www.spcsangola.com/edpcell.php">EDP Cell</a>
+              <!--   <li><a href="gallary.php">Photo Gallery</a></li> -->
+               <!--  <li><a href="sports.php">Sports</a></li>
+                <li><a href="ncc_nss.php">NCC/NSS</a></li>
+                 <li><a href="cultural.php">Cultural</a></li> -->
+                </li><li><a href="https://www.spcsangola.com/contactus%20all.php">Contact Us</a></li>
+                <li><a href="https://www.spcsangola.com/howtoreach.php">How to Reach</a></li>
+
+            </ul>
+        </div>
+    </div>
+    <!--<img src="img/brid.png" height="100" width="100">-->
+    <br><br>
+    <p style="text-align: center"> <!-- <img src="img/visitor.png" height="30px" width="150px">
+<img src="https://www.reliablecounter.com/count.php?page=sangolacollege.org&digit=style/plain/24/&reloads=0" alt="website counter code" title="website counter code" border="0"><br /> -->
+Copyright © 2021. All Rights Reserved  
+ <span style="margin-left:50px;">Designed by Prof.Shaikh A.K(Sangola College, Sangola) Mob:8010655311.
+</span></p>
+</div>
+    </div>
+
+
+</body></html>
